@@ -153,10 +153,10 @@ const Manager = () => {
                     </button>
                 </div>
                 <div className="passwords">
-                    <h2 className='font-bold text-2xl py-4'>
+                    <h2 className='font-bold text-2xl py-4 mx-2 md:mx-0'>
                         Your Passwords
                     </h2>
-                    {passwordArray.length === 0 && <div>No Passwords to Show</div>}
+                    {passwordArray.length === 0 && <div className='mx-2 md:mx-0'>No Passwords to Show</div>}
                     {passwordArray.length !== 0 && <table className="table-auto w-full overflow-hidden rounded-md mb-10">
                         <thead className='text-white bg-green-800'>
                             <tr>
