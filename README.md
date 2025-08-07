@@ -67,39 +67,36 @@ Otherwise, open index.html directly in your browser.
 3. Use the interface to set a master password and start storing your credentials securely.
 
 Future Enhancements
-Secure Backend Sync: Encrypt and sync vault data across devices.
+1. Secure Backend Sync: Encrypt and sync vault data across devices.
 
-Import/Export: Export to CSV, JSON, or import from other formats.
+2. Import/Export: Export to CSV, JSON, or import from other formats.
 
-Password Generation: Built-in strong random password generator.
+3. Password Generation: Built-in strong random password generator.
 
-Auto-fill: Support browser extensions or auto-filling login forms.
+4. Auto-fill: Support browser extensions or auto-filling login forms.
 
-Biometric or 2FA Support: Enhance security with biometric or multifactor authentication.
+5. Biometric or 2FA Support: Enhance security with biometric or multifactor authentication.
 
-Dark Mode & UI Themes: Custom themes for better UX.
+6. Dark Mode & UI Themes: Custom themes for better UX.
 
 Contributing
 Contributions are welcome! Here’s how you can help:
 
-Fork the repository.
+1. Fork the repository.
 
-Create a feature branch (git checkout -b feature/my-feature).
+2. Create a feature branch (git checkout -b feature/my-feature).
 
-Commit your changes (git commit -m 'Add feature').
+3. Commit your changes (git commit -m 'Add feature').
 
-Push to your branch (git push origin feature/my-feature).
+4. Push to your branch (git push origin feature/my-feature).
 
-Open a Pull Request.
+5. Open a Pull Request.
 
 Author
 Debanjan Pal
 📧 debanjanpal79611@gmail.com
 🌐 GitHub Profile
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -111,5 +108,3 @@ Edit
 
 Let me know if you'd like help customizing content for encryption details, deployment to Vercel, adding visuals or diagrams, or fleshing out backend API documentation!
 ::contentReference[oaicite:1]{index=1}
-##  Project Structure
-
